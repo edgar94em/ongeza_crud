@@ -6,4 +6,4 @@ HOW TO RUN THE CRUD
 - Then go back to cmd to migrate the database from folder to database server. “Use php artisan migrate” command from c:\xampp\htdocs\ongeza_crud ( Note that you must have xampp or wampp local server installed in your computer).
 -Now go back to cmd command prompt in the path c:\xampp\htdocs\ongeza_crud>then from here type php artisan serve.
 -At this point, laravel development server will be started, note that you must have laravel composer installed in your computer.
--Now go to web browser and type localhost:8000/customer.
+-Now go to web browser and type localhost:8000/customers.
